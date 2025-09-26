@@ -1,7 +1,7 @@
 # 🧠 Système Expert : Maximiser la Productivité  
 
-## 🎯 Objectif du TP  
-L’objectif de ce TP est de **créer un système expert** sur le thème de la productivité.  
+## 🎯 Objectif
+L’objectif de ce projet est de **créer un système expert** sur le thème de la productivité.  
 Chaque session de travail peut être plus ou moins efficace selon :  
 - notre niveau de concentration,  
 - notre capacité à éviter les distractions.  
@@ -17,7 +17,7 @@ Ce livre met en évidence plusieurs **profils** et leurs stratégies pour attein
 Notre système expert vise à :  
 - Identifier le **profil de l’utilisateur** en fonction de ses habitudes de travail.  
 - Proposer des **recommandations personnalisées** afin d’améliorer sa productivité.  
-- Aider à mettre en place des **rituels et conditions favorables** pour entrer dans un état de _Deep Work_.  
+- Aider à mettre en place des **rituels et conditions favorables** à la concentration.  
 
 ## 👥 Équipe  
 Projet réalisé par :  
